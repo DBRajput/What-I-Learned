@@ -37,14 +37,16 @@ This portal has services like noting down students performance data & have eLear
 
 This portal  provides access to digital resources for teachers, students, and parents across India. The resources include e-books, lesson plans, videos, and other educational materials.
 
-**Bodhami** : [Bodhami | National Award winning platform | Best career guidance platform 2023 | Top career counselling company](https://www.bodhami.com/)
+**Bodhami** : [Best career guidance platform & Top career counselling company](https://www.bodhami.com/)
 
 Advanced Career Counselling & skills assessment platform. They have wide range of user base Students, Professionals, Partners & user can also find job. 
+
 ## Free Data Available for Schools:
 
 1. Swayam: Free Online Education (Courses Model)
 2. Pathshala: eTextbook for all school books
 3. Diksha: eBooks & eContent
+
 ## Business Model:
 
 Here are possible business model:
@@ -68,11 +70,12 @@ Here are possible business model:
 ## Target Audience:
 
 **Data of 2022** ([School Numbers, Enrolment & Teacher Distribution (2023)](https://educationforallinindia.com/education-landscape-india-udiseplus-2021-22/))
-Total Primary Schools in India: 12 Lakhs  
-Total Secondary Schools in India: 1.5 Lakhs
-Total Senior Secondary Schools in India: 1.5 Lakhs
 
-Total Schools in Maharashtra: 1.10 Lakhs
+Total Primary Schools in India: 12 Lakhs.  
+Total Secondary Schools in India: 1.5 Lakhs. 
+Total Senior Secondary Schools in India: 1.5 Lakhs. 
+
+Total Schools in Maharashtra: 1.10 Lakhs. 
 
 Total 20 Lakhs Students appeared for CBSE Exam for 10th. (Feb 2024)
 
