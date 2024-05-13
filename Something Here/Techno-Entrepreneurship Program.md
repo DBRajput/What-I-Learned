@@ -72,8 +72,8 @@ Here are possible business model:
 **Data of 2022** ([School Numbers, Enrolment & Teacher Distribution (2023)](https://educationforallinindia.com/education-landscape-india-udiseplus-2021-22/))
 
 Total Primary Schools in India: 12 Lakhs.  
-Total Secondary Schools in India: 1.5 Lakhs. 
-Total Senior Secondary Schools in India: 1.5 Lakhs. 
+Total Secondary Schools in India: 1.5 Lakhs.  
+Total Senior Secondary Schools in India: 1.5 Lakhs.  
 
 Total Schools in Maharashtra: 1.10 Lakhs. 
 
